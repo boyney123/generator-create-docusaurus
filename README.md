@@ -1,7 +1,7 @@
 <div align="center">
 
-<h2>generator-create-docusaurus: A generator to quickly create documentation websites.</h2>
-<p>No more excuses not to have a quick documentation site for your project. Use `generator-create-docusaurus` to quickly get up and running</>
+<h2>generator-create-docusaurus: Quickly create documentation websites.</h2>
+<p>No more excuses not to have a quick documentation site for your project. Use `generator-create-docusaurus` to quickly get up and running</p>
 
   <hr />
 
