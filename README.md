@@ -50,11 +50,15 @@ _Make sure you have yeoman installed_
 npm install -g yeoman
 ```
 
+## Installing the generator
+
 ```sh
 npm install -g generator-create-docusaurus
 ```
 
-Next create your new documentation directory and run this command within it
+## Running the generator
+
+Create your new documentation directory and run this command within it
 
 ```sh
   yo create-docusaurus
