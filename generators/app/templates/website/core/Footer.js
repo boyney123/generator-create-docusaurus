@@ -31,10 +31,9 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
+            <a href={this.docUrl("documentation-intro", this.props.language)}>Intro</a>
             <a href={this.docUrl("getting-started", this.props.language)}>Get Started</a>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer noopener">
-              Learn <%= project %>
-            </a>
+            <a href={this.docUrl("feature-1", this.props.language)}>Feature 1</a>
           </div>
           
           <% if (twitter) { %>
@@ -67,8 +66,8 @@ class Footer extends React.Component {
         <section className="generated-details">
           <p>
             Generated with{" "}
-            <a className="highlight" href="https://github.com/boyney123/generator-create-new-docusaurus" target="_blank" rel="noreferrer noopener">
-              generator-docusaurus
+            <a className="highlight" href="https://github.com/boyney123/generator-create-docusaurus" target="_blank" rel="noreferrer noopener">
+              generator-create-docusaurus
             </a>{" "}
             built by{" "}
             <a className="highlight" href="https://twitter.com/boyney123" target="_blank" rel="noreferrer noopener">
