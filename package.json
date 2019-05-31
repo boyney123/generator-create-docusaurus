@@ -1,0 +1,29 @@
+{
+  "name": "generator-create-docusaurus",
+  "version": "0.0.1",
+  "description": "A generator for new docusaurus projects. Based on create-react-app",
+  "scripts": {},
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "open source",
+    "yeoman-generator"
+  ],
+  "author": "David Boyne",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.kebabcase": "^4.1.1",
+    "npm-check": "^5.5.2",
+    "yeoman-generator": "^2.0.3"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boyney123/generator-create-docusaurus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/boyney123/generator-create-docusaurus/issues"
+  },
+  "homepage": "https://github.com/boyney123/generator-create-docusaurus#readme"
+}
