@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>generator-create-docusaurus: quickly create documentation websites.</h2>
+<h2>⚡ generator-create-docusaurus: quickly create documentation websites ⚡.</h2>
 <p>No more excuses not to have a quick documentation site for your project. Use `generator-create-docusaurus` to quickly get up and running</p>
 
   <hr />
@@ -26,15 +26,15 @@
 
 # The problem
 
-When building tools for developers we should really write documentation on how to use our tools.
+When building tools & APIS for developers it is important that we write some documentation on how to use it.
 
 [Docusaurus](https://docusaurus.io/) is a great tool to help building documentation websites, but you still have to edit various files to get it ready for production.
 
-This project was created to enable fast development of documentation websites combining different technologies.
+This project was created to bootstrap your documentation website.
 
 # This solution
 
-This project uses [Docusaurusoc](https://docusaurus.io/) combined with [yeoman](https://yeoman.io/) to enable rapid spin up of documentation sites.
+This project uses [Docusaurus](https://docusaurus.io/) combined with [yeoman](https://yeoman.io/) to enable the rapid spin up of documentation websites.
 
 This project was inspired and uses code from:
 
