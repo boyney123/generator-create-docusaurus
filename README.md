@@ -7,6 +7,7 @@
 
 [![MIT License][license-badge]][license]
 [![PRs Welcome][prs-badge]][prs]
+[![Version][version-badge]][version]
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 [![Watch on GitHub][github-watch-badge]][github-watch]
@@ -74,6 +75,8 @@ If you have any questions, features or issues please raise any issue or pull req
 [license]: https://github.com/boyney123/generator-create-docusaurus/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
+[version-badge]: https://img.shields.io/npm/v/generator-create-docusaurus.svg?color=green
+[version]: https://www.npmjs.com/package/generator-create-docusaurus
 [github-watch-badge]: https://img.shields.io/github/watchers/boyney123/generator-create-docusaurus.svg?style=social
 [github-watch]: https://github.com/boyney123/generator-create-docusaurus/watchers
 [github-star-badge]: https://img.shields.io/github/stars/boyney123/generator-create-docusaurus.svg?style=social
