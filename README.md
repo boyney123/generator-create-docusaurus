@@ -48,7 +48,7 @@ This project was inspired and uses code from:
 _Make sure you have yeoman installed_
 
 ```sh
-npm install -g yeoman
+npm install -g yo
 ```
 
 ## Installing the generator
